@@ -1,0 +1,6 @@
+{
+  "name": "Nexora",
+  "description": "Nexora — Know What’s Next. Make smarter startup decisions with real-time business intelligence, financial tracking, CRM, scenario testing, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
